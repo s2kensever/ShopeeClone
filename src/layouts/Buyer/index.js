@@ -1,3 +1,2 @@
-import Buyer from './Buyer'
-
-export default Buyer
+import BuyerLayout from './BuyerLayout'
+export default BuyerLayout
